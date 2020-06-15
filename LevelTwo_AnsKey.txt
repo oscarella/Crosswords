@@ -1,0 +1,16 @@
+1. a way of connecting computers together in a local area network (LAN)
+2. harmful software program loaded onto a user's computer without knowledge to perform malicious actions
+3. basic unit of information used in computing; single binary value of either 0 or 1
+4. system designed to prevent unauthorized access to or from a private network
+5. device that forwards data packets along networks
+6. type of internet fraud scam where a scammer sends email messages pretending to be a bank or other service provider to gain personal information
+7. unit of data storage capacity roughly equivalent to 1 billion bytes
+8. the period when a program is running/ or being executable
+9. flexible removable magnetic disk, typically encased in hard platic, used for storing data
+10. a data structure consisting of a collection of elements (values or variables)
+11. Digital ____ disk: disk that is capable of storing a significant amount more data that a standard compact disc
+12. act of converting data to an unrecognizable form- used to protect sensitive information viewed only by authorized parties
+13. Internet ____: known as IP, an IP address is a numerical label assigned to each device connected to a computer network
+14. free open source operating system baed on UNIX that was created in 1991
+15. computer that provides data to other computers; may serve data on a local area network (LAN)/ wide area network (WAN)
+16. line of desktop and laptop computers developed by Apple
